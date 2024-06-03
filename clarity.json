@@ -1,0 +1,10 @@
+
+
+{
+  "contracts": {
+    "my-nft": "contracts/my-nft.clar"
+  },
+  "tests": {
+    "my-nft-test": "tests/my-nft-test.clar"
+  }
+}
